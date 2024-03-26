@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-color: #f4dfc8;
+   
+}
+header{
+    background-color: #000000;
+    height: 50px;
+}
+
+header nav ul{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+header nav ul li{
+    padding-right: 3%;
+    padding-top: 13px;
+    display: inline-block;
+    color: aliceblue; 
+    
+}
+header nav ul li a{
+    text-decoration: none;
+    color: aliceblue;
+    
+}
+.nav-items{
+    float: right;
+}
+header nav ul li a:hover{
+    color: #ff8000;
+    font-size: 20px;
+}
+.my-name{
+    padding-top: 12px;
+    font-size: 20px;
+    padding-right: 20px;
+}
